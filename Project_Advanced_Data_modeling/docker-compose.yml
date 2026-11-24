@@ -1,0 +1,105 @@
+networks:
+  mobility_network:
+    driver: bridge
+
+services:
+  # 1. DATABASE GEOGRAFICO (MONGO)
+  mongodb:
+    image: mongo:latest
+    container_name: torino_mongo
+    ports:
+      - "27017:27017"
+    networks:
+      - mobility_network
+    volumes:
+      - mongo_data:/data/db
+
+  # 2. INTERFACCIA GRAFICA PER MONGO (http://localhost:8081)
+  mongo-express:
+    image: mongo-express:latest
+    container_name: torino_mongo_express
+    ports:
+      - "8081:8081"
+    networks:
+      - mobility_network
+    environment:
+      ME_CONFIG_MONGODB_SERVER: mongodb
+    depends_on:
+      - mongodb
+
+  # 3. DATABASE SERIE TEMPORALI (INFLUXDB)
+  influxdb:
+    image: influxdb:2.7
+    container_name: torino_influx
+    ports:
+      - "8086:8086"
+    networks:
+      - mobility_network
+    environment:
+      - DOCKER_INFLUXDB_INIT_MODE=setup
+      - DOCKER_INFLUXDB_INIT_USERNAME=admin
+      - DOCKER_INFLUXDB_INIT_PASSWORD=passwordSicurissima123
+      - DOCKER_INFLUXDB_INIT_ORG=torino_org
+      - DOCKER_INFLUXDB_INIT_BUCKET=torino_mobility
+      - DOCKER_INFLUXDB_INIT_ADMIN_TOKEN=il_mio_super_token_segreto_123
+    volumes:
+      - influx_data:/var/lib/influxdb2
+
+# 4. DASHBOARD (GRAFANA - http://localhost:3000)
+  grafana:
+    image: grafana/grafana:latest
+    container_name: torino_grafana
+    ports:
+      - "3000:3000"
+    networks:
+      - mobility_network
+    depends_on:
+      - influxdb
+    volumes:
+      - grafana_data:/var/lib/grafana
+
+  # 5. DATA LOADER
+  data-loader:
+    build: ./data-loader
+    container_name: torino_loader
+    networks:
+      - mobility_network
+    depends_on:
+      - mongodb
+      - influxdb
+      - torino_neo4j
+  routing-api:
+    build: ./data-loader  # Usa la stessa cartella e Dockerfile del data-loader
+    container_name: torino_routing_api
+    ports:
+      - "5005:5000"       # Espone la porta di Flask al tuo Mac e a Grafana
+    command: python app.py # Dice a questo container di far partire l'API, non il caricamento dati
+    depends_on:
+      - mongodb
+      - influxdb
+    networks:
+      - mobility_network
+    restart: always       # Se per qualche motivo l'API "crasha", Docker la riaccende da solo
+
+  torino_neo4j:
+    image: neo4j:5
+    container_name: torino_neo4j
+    restart: always
+    environment:
+      # Impostiamo le credenziali di default (Utente / Password)
+      - NEO4J_AUTH=neo4j/password123
+    ports:
+      - "7474:7474"  # Porta per l'interfaccia grafica web
+      - "7687:7687"  # Porta "Bolt" per far comunicare Python con Neo4j
+    networks:             
+      - mobility_network
+    volumes:
+      - neo4j_data:/data
+      
+
+volumes:
+  mongo_data:
+  influx_data:
+  grafana_data:
+  neo4j_data:
+

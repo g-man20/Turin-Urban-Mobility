@@ -1,0 +1,18 @@
+# Ignora la cartella dei dati pesanti
+data/
+cache/
+
+# Ignora i file di configurazione di Visual Studio / VS Code
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Ignora i file temporanei di Python
+__pycache__/
+*.pyc
+
+# Ignora i dati locali dei database di Docker (se li salvate nella cartella)
+mongo_data/
+influxdb_data/
+.DS_Store

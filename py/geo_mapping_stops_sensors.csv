@@ -1,0 +1,369 @@
+stop_id,stop_name,sensor_id,road_name,distance_m
+11,Fermata 1003 - CATTANEO OVEST,40097,Corso Orbassano(TO),264.7
+12,Fermata 1004 - CATTANEO OVEST,40097,Corso Orbassano(TO),254.8
+13,Fermata 1005 - CATTANEO EST,40097,Corso Orbassano(TO),151.59
+14,Fermata 1006 - CATTANEO EST,40097,Corso Orbassano(TO),122.16
+15,Fermata 1007 - POMA,40097,Corso Orbassano(TO),396.44
+16,Fermata 1008 - POMA,40097,Corso Orbassano(TO),381.52
+21,Fermata 1012 - CAIO MARIO NORD,40182,Corso Unione Sovietica(TO),208.16
+22,Fermata 1013 - CAIO MARIO NORD,40182,Corso Unione Sovietica(TO),348.73
+23,Fermata 1014 - CAIO MARIO EST,40182,Corso Unione Sovietica(TO),133.53
+24,Fermata 1015 - CAIO MARIO EST,40182,Corso Unione Sovietica(TO),129.12
+37,Fermata 1027 - GORIZIA,40174,Corso Trieste(TO),410.11
+38,Fermata 1028 - GORIZIA,40174,Corso Trieste(TO),436.6
+39,Fermata 1029 - SAN MATTEO,40174,Corso Trieste(TO),401.07
+41,Fermata 1030 - SAN MATTEO,40174,Corso Trieste(TO),385.19
+43,Fermata 1032 - GOBETTI,40174,Corso Trieste(TO),480.7
+62,Fermata 105 - REGINA MARGHERITA,40123,Corso Regina Margherita(TO),176.17
+73,Fermata 106 - REGINA MARGHERITA,40123,Corso Regina Margherita(TO),163.76
+83,Fermata 107 - APPIO CLAUDIO,40123,Corso Regina Margherita(TO),285.26
+91,Fermata 1077 - BISCARETTI,40182,Corso Unione Sovietica(TO),310.97
+92,Fermata 1078 - BISCARETTI,40182,Corso Unione Sovietica(TO),473.74
+93,Fermata 1079 - VIGLIANI,40182,Corso Unione Sovietica(TO),48.14
+97,Fermata 108 - APPIO CLAUDIO,40123,Corso Regina Margherita(TO),245.13
+98,Fermata 1080 - SETTEMBRINI,40182,Corso Unione Sovietica(TO),82.59
+106,Fermata 1083 - CAIO MARIO CAP,40182,Corso Unione Sovietica(TO),251.36
+116,Fermata 1095 - VIGILI DEL FUOCO,40122,Corso Regina Margherita(TO),140.52
+121,Fermata 110 - LESSONA,40123,Corso Regina Margherita(TO),494.72
+124,Fermata 1102 - CAIO MARIO,40182,Corso Unione Sovietica(TO),273.34
+125,Fermata 1103 - CAIO MARIO,40182,Corso Unione Sovietica(TO),180.2
+142,Fermata 1119 - CAIO MARIO CAP,40182,Corso Unione Sovietica(TO),267.95
+148,Fermata 1124 - LECCE,40123,Corso Regina Margherita(TO),319.13
+149,Fermata 1125 - SACRARIO DEL MARTINETTO,40123,Corso Regina Margherita(TO),313.72
+150,Fermata 1126 - SACRARIO DEL MARTINETTO,40123,Corso Regina Margherita(TO),287.67
+196,Fermata 1169 - PORTOFINO,40182,Corso Unione Sovietica(TO),369.05
+198,Fermata 1170 - PORTOFINO,40182,Corso Unione Sovietica(TO),344.27
+209,Fermata 1180 - LA MANTA C.23,40095,Corso Orbassano(TO),354.24
+215,Fermata 1186 - IVREA,40040,Corso Giulio Cesare(TO),463.25
+216,Fermata 1187 - IVREA,40040,Corso Giulio Cesare(TO),433.91
+220,Fermata 1190 - BELGIOIOSO,2375,R24 Raccordo Torino-Aeroporto Caselle,378.23
+221,Fermata 1191 - BELGIOIOSO,2375,R24 Raccordo Torino-Aeroporto Caselle,459.3
+222,Fermata 1192 - CENA,2375,R24 Raccordo Torino-Aeroporto Caselle,210.2
+223,Fermata 1193 - CENA,2375,R24 Raccordo Torino-Aeroporto Caselle,253.61
+224,Fermata 1194 - REISS ROMOLI,40194,Corso Vercelli(TO),63.71
+225,Fermata 1195 - OXILIA,40194,Corso Vercelli(TO),73.18
+227,Fermata 1198 - REBAUDENGO SUD,40194,Corso Vercelli(TO),296.47
+228,Fermata 1199 - REBAUDENGO SUD,40194,Corso Vercelli(TO),275.97
+265,Fermata 1232 - CAIO MARIO CAP,40182,Corso Unione Sovietica(TO),264.8
+272,Fermata 1239 - ZARA,40071,Corso Moncalieri(TO),418.63
+274,Fermata 1240 - ZARA,40071,Corso Moncalieri(TO),441.2
+275,Fermata 1241 - SABAUDIA,40071,Corso Moncalieri(TO),226.19
+276,Fermata 1242 - SABAUDIA,40071,Corso Moncalieri(TO),214.61
+277,Fermata 1243 - PONTE DEL GATTO,40071,Corso Moncalieri(TO),357.38
+278,Fermata 1244 - PONTE DEL GATTO,40071,Corso Moncalieri(TO),371.32
+280,Fermata 1246 - XXV APRILE N.68,40071,Corso Moncalieri(TO),442.42
+281,Fermata 1247 - XXV APRILE N.65,40071,Corso Moncalieri(TO),446.72
+320,Fermata 1276 - VERCELLI,40040,Corso Giulio Cesare(TO),361.59
+321,Fermata 1277 - VERCELLI,40040,Corso Giulio Cesare(TO),348.55
+322,Fermata 1278 - GIULIO CESARE OVEST,40040,Corso Giulio Cesare(TO),158.36
+323,Fermata 1279 - GIULIO CESARE EST,40040,Corso Giulio Cesare(TO),146.22
+324,Fermata 128 - MONFALCONE,40149,Corso Sebastopoli(TO),421.85
+327,Fermata 1282 - OXILIA,40041,Corso Giulio Cesare(TO),101.38
+328,Fermata 1283 - OXILIA,40041,Corso Giulio Cesare(TO),134.57
+335,Fermata 129 - MONFALCONE,40149,Corso Sebastopoli(TO),372.12
+337,Fermata 1291 - GIULIO CESARE,40041,Corso Giulio Cesare(TO),113.15
+345,Fermata 130 - SEBASTOPOLI,40149,Corso Sebastopoli(TO),170.99
+356,Fermata 131 - SEBASTOPOLI,40149,Corso Sebastopoli(TO),216.67
+363,Fermata 1316 - STURA,40040,Corso Giulio Cesare(TO),324.92
+366,Fermata 1319 - ROMOLO E REMO,40040,Corso Giulio Cesare(TO),238.02
+367,Fermata 132 - FILADELFIA,40149,Corso Sebastopoli(TO),374.58
+369,Fermata 1322 - PUGLIA C.3,40253,Strada Di Settimo(TO),498.67
+370,Fermata 1323 - STURA,40040,Corso Giulio Cesare(TO),376.94
+371,Fermata 1324 - PUGLIA N.35,40253,Strada Di Settimo(TO),408.24
+373,Fermata 1326 - PUGLIA C.4,40253,Strada Di Settimo(TO),413.13
+374,Fermata 1327 - CENTRO COMMERCIALE NORD,40040,Corso Giulio Cesare(TO),464.03
+377,Fermata 133 - FILADELFIA,40149,Corso Sebastopoli(TO),390.91
+378,Fermata 1330 - TEMPIA,40040,Corso Giulio Cesare(TO),483.4
+379,Fermata 1331 - TEMPIA,40040,Corso Giulio Cesare(TO),448.38
+387,Fermata 134 - PITAGORA NORD,40098,Corso Orbassano(TO),367.08
+397,Fermata 135 - PITAGORA NORD,40098,Corso Orbassano(TO),402.59
+408,Fermata 136 - PITAGORA SUD,40098,Corso Orbassano(TO),202.3
+419,Fermata 137 - PITAGORA SUD,40098,Corso Orbassano(TO),265.59
+426,Fermata 1378 - SCIALOJA CAP MUFANT,2375,R24 Raccordo Torino-Aeroporto Caselle,381.72
+428,Fermata 138 - DANDOLO,40098,Corso Orbassano(TO),356.41
+438,Fermata 139 - DANDOLO,40098,Corso Orbassano(TO),359.1
+506,Fermata 145 - D'ARBOREA,39977,Corso Agnelli(TO),437.2
+540,Fermata 148 - TAZZOLI,39977,Corso Agnelli(TO),367.35
+551,Fermata 149 - CAIO MARIO CAP,40182,Corso Unione Sovietica(TO),230.06
+557,Fermata 1495 - SALVEMINI OVEST,39983,Corso Allamano(TO),491.16
+558,Fermata 1496 - SALVEMINI OVEST,39983,Corso Allamano(TO),425.69
+559,Fermata 1497 - ALLAMANO,39983,Corso Allamano(TO),137.27
+560,Fermata 1498 - ALLAMANO,39983,Corso Allamano(TO),79.69
+613,Fermata 1545 - ALFIERI,39983,Corso Allamano(TO),474.57
+662,Fermata 1592 - MONTE TORARO,40253,Strada Di Settimo(TO),414.18
+663,Fermata 1593 - MONTE TORARO,40253,Strada Di Settimo(TO),428.08
+664,Fermata 1594 - STURA LAZIO,40253,Strada Di Settimo(TO),467.75
+665,Fermata 1595 - STURA LAZIO,40253,Strada Di Settimo(TO),476.86
+666,Fermata 1596 - CENTALLO,40253,Strada Di Settimo(TO),338.58
+667,Fermata 1597 - MAGRA,40253,Strada Di Settimo(TO),23.31
+668,Fermata 1598 - VITTIME DI BOLOGNA,40253,Strada Di Settimo(TO),257.83
+671,Fermata 1600 - MAGRA EST,40253,Strada Di Settimo(TO),289.51
+672,Fermata 1601 - MAGRA,40253,Strada Di Settimo(TO),23.67
+673,Fermata 1602 - D'ANDRADE,40212,Ponte Amedeo VIII(TO),10.25
+674,Fermata 1603 - SOFIA NORD,40212,Ponte Amedeo VIII(TO),115.85
+676,Fermata 1605 - CRAVERO,40212,Ponte Amedeo VIII(TO),468.79
+692,Fermata 162 - BENGASI EST,40189,Corso Unita' D'italia(TO),480.48
+723,Fermata 1648 - OMERO OVEST,40097,Corso Orbassano(TO),326.0
+728,Fermata 1653 - TEMPIO PAUSANIA,40098,Corso Orbassano(TO),481.37
+729,Fermata 1654 - TEMPIO PAUSANIA,40098,Corso Orbassano(TO),423.07
+730,Fermata 1655 - GAIDANO,40098,Corso Orbassano(TO),208.01
+731,Fermata 1656 - GAIDANO,40098,Corso Orbassano(TO),196.61
+732,Fermata 1657 - PITAGORA,40098,Corso Orbassano(TO),360.69
+733,Fermata 1658 - PITAGORA,40098,Corso Orbassano(TO),337.35
+752,Fermata 1675 - VITTIME DI BOLOGNA N.10,40253,Strada Di Settimo(TO),344.39
+779,Fermata 1700 - CINCINNATO,40123,Corso Regina Margherita(TO),495.8
+800,Fermata 1722 - POTENZA,40123,Corso Regina Margherita(TO),490.98
+802,Fermata 1724 - SVIZZERA,40123,Corso Regina Margherita(TO),322.85
+803,Fermata 1725 - SVIZZERA,40123,Corso Regina Margherita(TO),381.78
+804,Fermata 1726 - MARTINETTO,40123,Corso Regina Margherita(TO),302.59
+913,Fermata 1827 - ALLAMANO,40149,Corso Sebastopoli(TO),286.48
+914,Fermata 1828 - FILADELFIA,40149,Corso Sebastopoli(TO),276.46
+928,Fermata 1841 - CIRENE,40123,Corso Regina Margherita(TO),384.55
+929,Fermata 1842 - CIRENE,40123,Corso Regina Margherita(TO),342.93
+940,Fermata 1852 - VALGIOIE,40022,Corso Francia(TO),464.28
+941,Fermata 1853 - MASSAUA SUD,40022,Corso Francia(TO),308.33
+942,Fermata 1854 - MASSAUA NORD,40022,Corso Francia(TO),318.14
+943,Fermata 1855 - MASSAUA SUD,40022,Corso Francia(TO),280.94
+953,Fermata 1865 - VEGLIA,40149,Corso Sebastopoli(TO),493.03
+954,Fermata 1866 - MONFALCONE,40149,Corso Sebastopoli(TO),496.26
+955,Fermata 1867 - FILADELFIA,40149,Corso Sebastopoli(TO),303.24
+956,Fermata 1868 - SEBASTOPOLI,40149,Corso Sebastopoli(TO),278.33
+958,Fermata 187 - TASSONI,40123,Corso Regina Margherita(TO),360.08
+962,Fermata 1873 - PUGLIA C.3,40253,Strada Di Settimo(TO),470.64
+967,Fermata 1878 - COSENZA,39977,Corso Agnelli(TO),367.76
+968,Fermata 1879 - COSENZA,39977,Corso Agnelli(TO),326.94
+969,Fermata 188 - TASSONI,40123,Corso Regina Margherita(TO),310.79
+970,Fermata 1880 - DE CANAL,39977,Corso Agnelli(TO),226.74
+971,Fermata 1881 - DE CANAL,39977,Corso Agnelli(TO),261.18
+972,Fermata 1882 - DINA,39977,Corso Agnelli(TO),321.05
+973,Fermata 1883 - DINA,39977,Corso Agnelli(TO),328.19
+975,Fermata 1886 - POSTE E TELECOMUNICAZIONI,2375,R24 Raccordo Torino-Aeroporto Caselle,221.14
+976,Fermata 1887 - CAIO MARIO CAP,40182,Corso Unione Sovietica(TO),289.75
+988,Fermata 1898 - UNIONE SOVIETICA,40182,Corso Unione Sovietica(TO),442.16
+989,Fermata 1899 - UNIONE SOVIETICA,40182,Corso Unione Sovietica(TO),430.1
+1069,Fermata 1975 - PUGLIA N.35,40253,Strada Di Settimo(TO),387.96
+1072,Fermata 1978 - CASCINETTE,40040,Corso Giulio Cesare(TO),323.22
+1148,Fermata 2047 - MONCALIERI N.371,40189,Corso Unita' D'italia(TO),477.27
+1150,Fermata 2049 - SANTA LUCIA,40189,Corso Unita' D'italia(TO),376.14
+1152,Fermata 2050 - SANTA LUCIA,40189,Corso Unita' D'italia(TO),345.55
+1156,Fermata 2054 - MONCALIERI N.310,40071,Corso Moncalieri(TO),385.32
+1157,Fermata 2055 - ALBERONI,40071,Corso Moncalieri(TO),90.55
+1158,Fermata 2056 - ALBERONI,40071,Corso Moncalieri(TO),155.53
+1249,Fermata 2130 - ANSELMETTI NORD,40095,Corso Orbassano(TO),377.5
+1252,Fermata 2131 - SETTEMBRINI,40095,Corso Orbassano(TO),137.59
+1354,Fermata 2225 - ZARA CAP,40071,Corso Moncalieri(TO),475.04
+1356,Fermata 2227 - VANDALINO,40022,Corso Francia(TO),400.79
+1367,Fermata 2237 - ORBASSANO,40095,Corso Orbassano(TO),277.7
+1368,Fermata 2238 - ORBASSANO,40095,Corso Orbassano(TO),212.35
+1369,Fermata 2239 - TRIPOLI,39977,Corso Agnelli(TO),229.34
+1370,Fermata 2240 - TRIPOLI,39977,Corso Agnelli(TO),239.9
+1371,Fermata 2241 - AGNELLI,39977,Corso Agnelli(TO),95.22
+1372,Fermata 2242 - AGNELLI,39977,Corso Agnelli(TO),149.2
+1373,Fermata 2243 - GRANERI,39977,Corso Agnelli(TO),454.67
+1374,Fermata 2244 - UNIONE SOVIETICA,39977,Corso Agnelli(TO),432.77
+1378,Fermata 2248 - PALAZZO DEL LAVORO,40189,Corso Unita' D'italia(TO),295.23
+1379,Fermata 2249 - PALAZZO DEL LAVORO,40189,Corso Unita' D'italia(TO),280.89
+1381,Fermata 2250 - VINOVO,40189,Corso Unita' D'italia(TO),350.89
+1384,Fermata 2251 - VINOVO,40189,Corso Unita' D'italia(TO),307.28
+1388,Fermata 2252 - PALAVELA,40191,Corso Unita' D'italia(TO),342.28
+1392,Fermata 2253 - PALAVELA,40191,Corso Unita' D'italia(TO),405.9
+1393,Fermata 2254 - CADUTI SUL LAVORO,40191,Corso Unita' D'italia(TO),201.56
+1394,Fermata 2255 - CADUTI SUL LAVORO,40191,Corso Unita' D'italia(TO),195.86
+1395,Fermata 2256 - VADO,40191,Corso Unita' D'italia(TO),485.26
+1396,Fermata 2257 - VADO,40191,Corso Unita' D'italia(TO),490.27
+1537,Fermata 2389 - OMERO OVEST,40097,Corso Orbassano(TO),128.29
+1539,Fermata 2390 - NALLINO,40097,Corso Orbassano(TO),144.87
+1542,Fermata 2393 - SOFIA CAP,40212,Ponte Amedeo VIII(TO),239.98
+1543,Fermata 2394 - SOFIA OVEST,40212,Ponte Amedeo VIII(TO),329.63
+1544,Fermata 2395 - ANCINA,40212,Ponte Amedeo VIII(TO),428.15
+1547,Fermata 2398 - MERCADANTE,40041,Corso Giulio Cesare(TO),451.16
+1548,Fermata 2399 - MERCADANTE,40041,Corso Giulio Cesare(TO),445.12
+1550,Fermata 2400 - DERNA EST,40041,Corso Giulio Cesare(TO),220.4
+1551,Fermata 2401 - DERNA EST,40041,Corso Giulio Cesare(TO),193.47
+1552,Fermata 2402 - VERCELLI,40194,Corso Vercelli(TO),137.38
+1553,Fermata 2403 - VERCELLI,40194,Corso Vercelli(TO),155.78
+1554,Fermata 2404 - POSTE E TELECOMUNICAZIONI,2375,R24 Raccordo Torino-Aeroporto Caselle,198.25
+1555,Fermata 2405 - MUSEO MUFANT,2375,R24 Raccordo Torino-Aeroporto Caselle,419.31
+1556,Fermata 2406 - MUSEO MUFANT,2375,R24 Raccordo Torino-Aeroporto Caselle,494.37
+1582,Fermata 2431 - PUGLIA C.4,40253,Strada Di Settimo(TO),416.55
+1583,Fermata 2432 - ANCINA,40212,Ponte Amedeo VIII(TO),435.97
+1609,Fermata 2452 - POLONIA,40071,Corso Moncalieri(TO),447.41
+1622,Fermata 2463 - POLONIA,40071,Corso Moncalieri(TO),437.66
+1627,Fermata 2470 - CENTALLO,40253,Strada Di Settimo(TO),347.81
+1628,Fermata 2471 - CASCINOTTO,40253,Strada Di Settimo(TO),354.2
+1629,Fermata 2472 - CASCINOTTO,40253,Strada Di Settimo(TO),344.05
+1664,Fermata 2509 - FILZI,40191,Corso Unita' D'italia(TO),496.77
+1672,Fermata 2516 - GALILEO FERRARIS,36066,SP8(TO) di Druento,144.24
+1681,Fermata 2524 - GALILEO FERRARIS,36066,SP8(TO) di Druento,272.69
+1699,Fermata 2540 - GIAMBONE,39977,Corso Agnelli(TO),319.88
+1712,Fermata 2551 - ORBASSANO,40095,Corso Orbassano(TO),309.98
+1778,Fermata 2615 - OXILIA EST,40041,Corso Giulio Cesare(TO),91.02
+1786,Fermata 2622 - CIRENE OVEST,40123,Corso Regina Margherita(TO),489.32
+1788,Fermata 2624 - PELLERINA,40122,Corso Regina Margherita(TO),304.89
+1789,Fermata 2625 - APPIO CLAUDIO,40123,Corso Regina Margherita(TO),266.16
+1790,Fermata 2626 - LECCE,40123,Corso Regina Margherita(TO),220.16
+1791,Fermata 2627 - PELLERINA,40122,Corso Regina Margherita(TO),447.47
+1793,Fermata 2629 - CIRENE OVEST,40123,Corso Regina Margherita(TO),494.55
+1819,Fermata 2653 - MASSAUA OVEST,40022,Corso Francia(TO),140.52
+1820,Fermata 2654 - MASSAUA OVEST,40022,Corso Francia(TO),179.61
+1887,Fermata 2716 - CASSAGNA,36066,SP8(TO) di Druento,367.9
+1888,Fermata 2718 - CASSAGNA,36066,SP8(TO) di Druento,287.56
+1899,Fermata 2729 - TASSONI CAP,40123,Corso Regina Margherita(TO),303.61
+1901,Fermata 2730 - PRIMULE SUD,40121,Corso Regina Margherita(TO),306.44
+1902,Fermata 2731 - PRIMULE SUD,40121,Corso Regina Margherita(TO),304.85
+1903,Fermata 2732 - AGLIETTA,40121,Corso Regina Margherita(TO),333.05
+1904,Fermata 2733 - AGLIETTA,40121,Corso Regina Margherita(TO),437.08
+1954,Fermata 278 - GIAMBONE,39977,Corso Agnelli(TO),351.07
+1965,Fermata 279 - GIAMBONE,39977,Corso Agnelli(TO),329.29
+1976,Fermata 280 - TAZZOLI EST,39977,Corso Agnelli(TO),449.94
+2010,Fermata 283 - TRAIANO,40182,Corso Unione Sovietica(TO),486.38
+2156,Fermata 2962 - SETTEMBRINI C.20,40095,Corso Orbassano(TO),438.41
+2165,Fermata 2970 - SETTEMBRINI C.15,40182,Corso Unione Sovietica(TO),350.89
+2166,Fermata 2971 - SETTEMBRINI C.15,40182,Corso Unione Sovietica(TO),390.85
+2167,Fermata 2972 - SETTEMBRINI C.8,40182,Corso Unione Sovietica(TO),144.78
+2171,Fermata 2976 - SETTEMBRINI C.8,40182,Corso Unione Sovietica(TO),182.7
+2175,Fermata 298 - SVINCOLO MIRAFIORI,40095,Corso Orbassano(TO),353.74
+2186,Fermata 299 - SETTEMBRINI,40095,Corso Orbassano(TO),8.9
+2199,Fermata 300 - SETTEMBRINI,40095,Corso Orbassano(TO),202.62
+2210,Fermata 301 - ORBASSANO C.11,40095,Corso Orbassano(TO),464.95
+2211,Fermata 3010 - MARTINETTO,40123,Corso Regina Margherita(TO),278.62
+2212,Fermata 3011 - MARTINETTO,40123,Corso Regina Margherita(TO),284.03
+2220,Fermata 302 - ORBASSANO C.11,40095,Corso Orbassano(TO),415.77
+2253,Fermata 305 - CATTANEO SUD,40097,Corso Orbassano(TO),264.75
+2264,Fermata 306 - CATTANEO SUD,40097,Corso Orbassano(TO),300.03
+2267,Fermata 3062 - SANGONE,40174,Corso Trieste(TO),288.9
+2268,Fermata 3063 - SANGONE,40174,Corso Trieste(TO),219.33
+2269,Fermata 3064 - MARONCELLI,40174,Corso Trieste(TO),245.59
+2270,Fermata 3065 - MARONCELLI,40189,Corso Unita' D'italia(TO),71.69
+2271,Fermata 3066 - PALAVELA,40189,Corso Unita' D'italia(TO),183.04
+2272,Fermata 3067 - PALAVELA,40189,Corso Unita' D'italia(TO),170.34
+2273,Fermata 3068 - MILLEFONTI,40191,Corso Unita' D'italia(TO),280.17
+2274,Fermata 3069 - MILLEFONTI,40189,Corso Unita' D'italia(TO),373.95
+2275,Fermata 307 - CATTANEO,40097,Corso Orbassano(TO),40.43
+2276,Fermata 3070 - OSPEDALE CTO,40071,Corso Moncalieri(TO),398.31
+2277,Fermata 3071 - OSPEDALE CTO,40071,Corso Moncalieri(TO),375.78
+2286,Fermata 308 - CATTANEO,40097,Corso Orbassano(TO),69.61
+2297,Fermata 309 - OMERO,40098,Corso Orbassano(TO),51.05
+2309,Fermata 310 - OMERO,40098,Corso Orbassano(TO),65.07
+2324,Fermata 311 - PITAGORA,40098,Corso Orbassano(TO),411.77
+2335,Fermata 312 - PITAGORA,40098,Corso Orbassano(TO),387.03
+2391,Fermata 3176 - GRANDI,39983,Corso Allamano(TO),481.74
+2394,Fermata 3179 - GRANDI,39983,Corso Allamano(TO),437.59
+2432,Fermata 3216 - DERNA,40041,Corso Giulio Cesare(TO),376.87
+2433,Fermata 3217 - DERNA,40041,Corso Giulio Cesare(TO),406.28
+2542,Fermata 3324 - MASSAUA CAP,40022,Corso Francia(TO),442.26
+2581,Fermata 3363 - BARBERA,40182,Corso Unione Sovietica(TO),319.05
+2582,Fermata 3364 - BISCARETTI,40182,Corso Unione Sovietica(TO),434.85
+2583,Fermata 3365 - VIGLIANI,40182,Corso Unione Sovietica(TO),24.83
+2584,Fermata 3366 - SETTEMBRINI,40182,Corso Unione Sovietica(TO),33.49
+2586,Fermata 3368 - CAIO MARIO,40182,Corso Unione Sovietica(TO),222.82
+2602,Fermata 3384 - SOFIA,40212,Ponte Amedeo VIII(TO),377.39
+2612,Fermata 3393 - SOFIA,40212,Ponte Amedeo VIII(TO),415.52
+2631,Fermata 3413 - REGINA MARGHERITA,40123,Corso Regina Margherita(TO),173.3
+2640,Fermata 3423 - OMERO CAP,40098,Corso Orbassano(TO),152.99
+2644,Fermata 3427 - GAIDANO N.8,40097,Corso Orbassano(TO),341.6
+2646,Fermata 3429 - DE CANAL,39977,Corso Agnelli(TO),391.46
+2648,Fermata 3430 - DE CANAL,39977,Corso Agnelli(TO),407.15
+2649,Fermata 3431 - SANREMO,39977,Corso Agnelli(TO),493.57
+2650,Fermata 3432 - SANREMO,39977,Corso Agnelli(TO),496.72
+2651,Fermata 3433 - SIRACUSA,40098,Corso Orbassano(TO),390.06
+2652,Fermata 3434 - SIRACUSA,40098,Corso Orbassano(TO),377.66
+2653,Fermata 3435 - OMERO,40097,Corso Orbassano(TO),231.08
+2654,Fermata 3436 - OMERO,40098,Corso Orbassano(TO),246.13
+2657,Fermata 3439 - SIRACUSA,40149,Corso Sebastopoli(TO),377.9
+2659,Fermata 3440 - SIRACUSA,40149,Corso Sebastopoli(TO),356.43
+2660,Fermata 3441 - GUIDO RENI,40149,Corso Sebastopoli(TO),302.03
+2661,Fermata 3442 - GUIDO RENI,40149,Corso Sebastopoli(TO),293.76
+2669,Fermata 3450 - MARONCELLI,40189,Corso Unita' D'italia(TO),461.43
+2676,Fermata 3457 - SETTIMO,40253,Strada Di Settimo(TO),176.79
+2687,Fermata 3468 - ORBASSANO C.11,40095,Corso Orbassano(TO),401.04
+2690,Fermata 3470 - PRIMULE N.18,40121,Corso Regina Margherita(TO),481.71
+2691,Fermata 3471 - PRIMULE N.18,40121,Corso Regina Margherita(TO),495.82
+2767,Fermata 3542 - GROSSO CAP,39983,Corso Allamano(TO),156.83
+2782,Fermata 3557 - PARCO DELLA CONFLUENZA,40212,Ponte Amedeo VIII(TO),333.38
+8819,Fermata 3736 - SCIALOJA CAP MUFANT,2375,R24 Raccordo Torino-Aeroporto Caselle,386.52
+2846,Fermata 392 - SAN MARINO,39977,Corso Agnelli(TO),437.26
+2848,Fermata 394 - COSENZA,39977,Corso Agnelli(TO),169.5
+2850,Fermata 396 - TAZZOLI,39977,Corso Agnelli(TO),377.74
+2978,Fermata 434 - VITTIME DI BOLOGNA N.7,40253,Strada Di Settimo(TO),400.59
+3047,Fermata 499 - PIOBESI,40182,Corso Unione Sovietica(TO),485.95
+3054,Fermata 5005 - COSENZA,39977,Corso Agnelli(TO),82.53
+3057,Fermata 5010 - CASCINETTE,40040,Corso Giulio Cesare(TO),203.27
+3058,Fermata 5011 - CASCINETTE,40040,Corso Giulio Cesare(TO),233.82
+3060,Fermata 5016 - REGINA MARGHERITA,40123,Corso Regina Margherita(TO),192.92
+3062,Fermata 5021 - REGINA MARGHERITA,40123,Corso Regina Margherita(TO),146.16
+3078,Fermata 5047 - CAIO MARIO CAP,40182,Corso Unione Sovietica(TO),215.59
+3081,Fermata 5058 - TAZZOLI CAP,40097,Corso Orbassano(TO),154.43
+3093,Fermata 5073 - AGNELLI,39977,Corso Agnelli(TO),401.63
+3094,Fermata 5074 - AGNELLI,39977,Corso Agnelli(TO),436.21
+3111,Fermata 510 - ASUNCION,39977,Corso Agnelli(TO),465.18
+3113,Fermata 5102 - CATTANEO CAP,40097,Corso Orbassano(TO),94.83
+3123,Fermata 5127 - LUNGO STURA CAP,40040,Corso Giulio Cesare(TO),248.11
+3211,Fermata 60 - TESTONA,40189,Corso Unita' D'italia(TO),409.39
+3402,Fermata 62 - VALENZA,40191,Corso Unita' D'italia(TO),396.8
+3413,Fermata 63 - MILLEFONTI,40191,Corso Unita' D'italia(TO),400.32
+3488,Fermata 702 - ALFIERI,39983,Corso Allamano(TO),454.5
+3491,Fermata 705 - LESNA,39983,Corso Allamano(TO),211.21
+3492,Fermata 706 - LESNA,39983,Corso Allamano(TO),207.19
+3498,Fermata 711 - SIRACUSA,40149,Corso Sebastopoli(TO),395.78
+3500,Fermata 713 - BAROCCHIO EST,39983,Corso Allamano(TO),151.76
+3501,Fermata 714 - BAROCCHIO EST,39983,Corso Allamano(TO),95.96
+3502,Fermata 715 - CASALEGNO,39983,Corso Allamano(TO),174.04
+3503,Fermata 716 - CASALEGNO,39983,Corso Allamano(TO),172.29
+3504,Fermata 717 - CRESCENZIO,40149,Corso Sebastopoli(TO),378.11
+3505,Fermata 718 - GUIDO RENI,40149,Corso Sebastopoli(TO),211.22
+3506,Fermata 719 - GUIDO RENI,40149,Corso Sebastopoli(TO),166.85
+3508,Fermata 720 - SIRACUSA,40149,Corso Sebastopoli(TO),37.03
+3509,Fermata 721 - SIRACUSA,40149,Corso Sebastopoli(TO),83.75
+3510,Fermata 722 - SIRACUSA EST,40149,Corso Sebastopoli(TO),323.37
+3511,Fermata 723 - SIRACUSA EST,40149,Corso Sebastopoli(TO),277.59
+3530,Fermata 745 - SETTEMBRINI C.20,40095,Corso Orbassano(TO),353.6
+3532,Fermata 747 - SOFIA CAP,40212,Ponte Amedeo VIII(TO),299.81
+3533,Fermata 748 - SOFIA,40212,Ponte Amedeo VIII(TO),344.51
+3577,Fermata 79 - DERNA SUD,40041,Corso Giulio Cesare(TO),322.02
+3588,Fermata 80 - DERNA SUD,40041,Corso Giulio Cesare(TO),341.79
+3591,Fermata 803 - TRAIANO,40182,Corso Unione Sovietica(TO),490.22
+3593,Fermata 805 - CAIO MARIO,40182,Corso Unione Sovietica(TO),257.81
+3594,Fermata 806 - SETTEMBRINI C.8,40182,Corso Unione Sovietica(TO),151.64
+3598,Fermata 81 - REBAUDENGO,40194,Corso Vercelli(TO),221.71
+8017,Fermata 818 - SETTEMBRINI C.20,40095,Corso Orbassano(TO),417.12
+3616,Fermata 82 - REBAUDENGO,40194,Corso Vercelli(TO),239.96
+3617,Fermata 820 - SETTEMBRINI,40095,Corso Orbassano(TO),284.1
+3629,Fermata 822 - SETTEMBRINI CAP,40095,Corso Orbassano(TO),243.83
+8700,Fermata 8320 - ROMOLO E REMO EST,40040,Corso Giulio Cesare(TO),96.43
+3674,Fermata 854 - RIETI NORD,40021,Corso Francia(TO),335.02
+3675,Fermata 855 - RIETI NORD,40021,Corso Francia(TO),305.57
+3676,Fermata 856 - VAL LAGARINA,40021,Corso Francia(TO),363.71
+3677,Fermata 857 - VANDALINO,40021,Corso Francia(TO),289.55
+3678,Fermata 858 - ERITREA,40021,Corso Francia(TO),302.63
+3679,Fermata 859 - ERITREA,40021,Corso Francia(TO),474.46
+3681,Fermata 860 - DE SANCTIS,40022,Corso Francia(TO),318.7
+3682,Fermata 861 - DE SANCTIS,40022,Corso Francia(TO),488.84
+3683,Fermata 862 - VANDALINO,40022,Corso Francia(TO),406.93
+3685,Fermata 864 - FIDIA OVEST,40022,Corso Francia(TO),485.44
+3795,Fermata 962 - MASSAUA NORD,40022,Corso Francia(TO),378.25
+3796,Fermata 963 - MASSAUA CAP,40022,Corso Francia(TO),490.31
+3797,Fermata 964 - MARCHE,40021,Corso Francia(TO),78.95
+3798,Fermata 965 - MARCHE,40021,Corso Francia(TO),68.75
+3621,METRO MARCHE,40022,Corso Francia(TO),93.85
+3622,METRO MASSAUA,40022,Corso Francia(TO),344.41
+4480,Fermata 10365 - TORINO (C.SO G.CESARE/LUNGO STURA LAZIO),40040,Corso Giulio Cesare(TO),97.78
+4959,Fermata 12353 - SALASSA,11436,SS460 Di Ceresole,429.07
+5004,Fermata 12497 - LOMBARDORE (CASCINA BOSSOLE),11432,SS460 Di Ceresole,379.99
+5030,Fermata 12572 - ALBA (MUSSOTTO-PONTE NERO),5032,SS29 Del Colle Di Cadibona,293.1
+5427,Fermata 14326 - PALAZZO GROSSO (V. TORINO/V. 25 APRILE),35559,SP13(TO) di Front,237.31
+5498,Fermata 14570 - SAN MAURIZIO (CERETTA/V. TORINO 67),35823,SP2(TO) Di Germagnano,457.05
+5499,Fermata 14573 - CIRIE' (LOC. BARELLA),35824,SP2(TO) Di Germagnano,23.84
+6107,Fermata 17765 - SALASSA (V. ROSSA),11436,SS460 Di Ceresole,429.02
+6108,Fermata 17786 - CASTELROTTO (VILLA),5032,SS29 Del Colle Di Cadibona,265.01
+6120,Fermata 17843 - PALAZZO GROSSO (V. TORINO/V. LOTTI),35559,SP13(TO) di Front,497.56
+6159,Fermata 18039 - TORINO (C.SO MARCHE-STAB.ABARTH),40022,Corso Francia(TO),233.58
+6246,Fermata 20365 - TORINO (C.SO G.CESARE/LUNGO STURA LAZIO),40040,Corso Giulio Cesare(TO),72.23
+6673,Fermata 22353 - SALASSA,11436,SS460 Di Ceresole,470.95
+6716,Fermata 22497 - LOMBARDORE (CASCINA BOSSOLE),11432,SS460 Di Ceresole,412.49
+6740,Fermata 22572 - ALBA (MUSSOTTO-PONTE NERO),5032,SS29 Del Colle Di Cadibona,449.31
+7122,Fermata 24326 - PALAZZO GROSSO (V. TORINO/V. 25 APRILE),35559,SP13(TO) di Front,220.31
+7406,Fermata 25593 - TORINO (C.SO MARONCELLI),40189,Corso Unita' D'italia(TO),194.55
+7734,Fermata 27765 - SALASSA (V. ROSSA),11436,SS460 Di Ceresole,327.42
+7735,Fermata 27786 - CASTELROTTO (VILLA),5032,SS29 Del Colle Di Cadibona,290.05
+7780,Fermata 28039 - TORINO (C.SO MARCHE-STAB.ABARTH),40022,Corso Francia(TO),201.16
